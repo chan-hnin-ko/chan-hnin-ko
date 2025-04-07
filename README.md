@@ -12,9 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=chan-hnin-ko&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
----
-
-## 🚀 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
@@ -70,13 +67,12 @@ Currently diving deeper into **Laravel** to build more powerful and scalable web
 
 
 
- 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:chanhninko26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
 </p>
 
 

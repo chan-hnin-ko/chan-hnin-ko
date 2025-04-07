@@ -1,6 +1,7 @@
 
 
 # Hi there 👋 I'm Chan Hnin Ko]
+<h3 align="center">✨ 𝓦𝓮𝓵�𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵�𝓮! ✨</h3>
 
 ## 🚀 About Me
 I'm a passionate developer who loves coding and open source!

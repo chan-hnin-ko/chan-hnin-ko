@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50px">
   Hey there! I'm <strong>Chan Hnin Ko</strong>
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50px">
-</h1>
+</h2>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA07A&center=true&vCenter=true&width=435&lines=✨+WordPress+Frontend+Developer;💻+PHP+Specialist;🎨+UI%2FUX+Enthusiast;🚀+Laravel+Learner;🌍+Open+Source+Contributor" alt="Typing SVG" />

@@ -21,7 +21,7 @@ I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specia
 <br>
 Currently diving deeper into **Laravel** to build more powerful and scalable web applications.
 
----
+
 
 ## 🛠️ Tech Stack
 

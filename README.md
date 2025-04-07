@@ -19,9 +19,9 @@ I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specia
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️💻🎨⚙️ 
+ 
 
-### 💻 WordPress & PHP 
 <div align="center">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -29,7 +29,6 @@ I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specia
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
-### 🎨 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,7 +38,7 @@ I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specia
  
 </div>
 
-### ⚙️ Tools & Platforms
+
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -47,7 +46,6 @@ I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specia
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## 🎮 Fun Stickers & Animations
 <div align="center">
   
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="auto"/>

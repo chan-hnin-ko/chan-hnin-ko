@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50px">
 </h2>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA07A&center=true&vCenter=true&width=435&lines=✨+WordPress+Frontend+Developer;💻+PHP+Specialist;🎨+UI%2FUX+Enthusiast;🚀+Laravel+Learner;🌍+Open+Source+Contributor" alt="Typing SVG" />
-</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chan-hnin-ko&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
@@ -17,7 +13,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
-<p align="center">I'm a passionate **WordPress Frontend Developer** with strong PHP skills, specializing in creating visually stunning, responsive websites with custom themes and plugins.  
+<p align="center">I'm a passionate **WordPress Frontend Developer** with PHP skills, specializing in creating visually stunning, responsive websites with custom themes and plugins.  
 <br>
 Currently diving deeper into **Laravel** to build more powerful and scalable web applications.</p>
 
